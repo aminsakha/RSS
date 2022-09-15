@@ -49,8 +49,7 @@ class MainActivity : AppCompatActivity() {
             private fun downloadXMl(urlPath: String?): String {
                 return URL(urlPath).readText()
             }
+            // this is a comment
         }
-        // this is a test commit
-        //second commit
     }
 }
